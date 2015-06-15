@@ -1,5 +1,4 @@
-# Introduction-to-Reactive
-## 响应式编程简介
+# 响应式编程简介
 ([原文](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754))
 
 　　你应该对响应式编程这个新事件有点好奇吧，尤其是与之相关的部分框架：Rx、Bacon.js、RAC等等。
